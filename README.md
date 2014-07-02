@@ -1,7 +1,7 @@
 Passport-SAML
 =============
 
-Forked changes:
+Fork changes:
 ---------------
 
 This project was forked because it didn't work with our java idp. This fork should work with picketlink.
